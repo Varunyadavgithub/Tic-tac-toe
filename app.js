@@ -1,11 +1,13 @@
+// Access all HTML elements
 let boxes = document.querySelectorAll(".box");
 let resetBtn = document.querySelector("#reset-btn");
 let newGameBtn = document.querySelector("#new-btn");
 let msgContainer = document.querySelector(".msg-container");
 let msg = document.querySelector("#msg");
 
-let turnO = true; //player-X, player-Y
+let turnO = true; // turn of player-X, player-O
 
+// All winning pattern
 const winPatterns = [
     [0, 1, 2],
     [0, 3, 6],
@@ -17,12 +19,14 @@ const winPatterns = [
     [6, 7, 8]
 ];
 
+// method for reset game button
 const resetGame = () => {
     turnO = true;
     enableBoxes();
     msgContainer.classList.add("hide");
 };
 
+// Adding event to show X or O on screen 
 boxes.forEach((box)=>{
     box.addEventListener("click", ()=>{
         if(turnO === true){ //player-O
@@ -52,12 +56,14 @@ const enableBoxes = () => {
     }
 };
 
+// method to show message for winner
 const showWinner = (winner) => {
     msg.innerText = `Congratulations, winner is ${winner}`;
     msgContainer.classList.remove("hide");
     disableBoxes();
 };
 
+// method to check winner according to winning pattern 
 const checkwinner = () => {
     for(pattern of winPatterns){
         let pos1Val = boxes[pattern[0]].innerText;
@@ -71,6 +77,7 @@ const checkwinner = () => {
     }
 };
 
+//functionality of 'New Game' and 'Reset' button  
 newGameBtn.addEventListener("click", resetGame);
 resetBtn.addEventListener("click", resetGame);
 
