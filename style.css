@@ -7,6 +7,8 @@ body {
     background-color: #548687;
     text-align: center;
 }
+
+/* Styling for Game Area */
 .container {
     height: 70vh;
     display: flex;
@@ -32,6 +34,8 @@ body {
     color: #b0413e;
     background-color: #ffffc7;
 }
+
+/* Styling Reset button */
 #reset-btn {
     padding: 1rem;
     font-size: 1.25rem;
