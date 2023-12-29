@@ -5,13 +5,14 @@ resulting in a draw. It's a simple yet strategic game often used for entertainme
 
 # Screenshot
 ![Screenshot 2023-12-29 210832](https://github.com/Varunyadavgithub/Tic-tac-toe/assets/134674472/8190ce18-40f8-45fb-bafe-99e4efbfe237)
-![Screenshot 2023-12-29 211251](https://github.com/Varunyadavgithub/Tic-tac-toe/assets/134674472/b0f35925-1bf4-49c2-a8da-10f2577deea1)
+<br><br>
+![tic tac toe](https://github.com/Varunyadavgithub/Tic-tac-toe/assets/134674472/e55b5512-5ba7-4b6e-975e-5bef643ceeab)
+<br><br>
 ![Screenshot 2023-12-29 211311](https://github.com/Varunyadavgithub/Tic-tac-toe/assets/134674472/abdf94da-ed52-4a0a-9be7-83bb24c4810c)
 
 
-
-
 # Demo
+https://github.com/Varunyadavgithub/Tic-tac-toe/assets/134674472/e28d8fa8-517a-436f-b333-bc98fbd6056c
 
 
 # About Tic-Tac-Toe Game
