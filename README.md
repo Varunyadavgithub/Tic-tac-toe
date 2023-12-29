@@ -4,6 +4,11 @@ on an empty cell, and the game ends when one player successfully aligns three of
 resulting in a draw. It's a simple yet strategic game often used for entertainment and educational purposes.
 
 # Screenshot
+![Screenshot 2023-12-29 210832](https://github.com/Varunyadavgithub/Tic-tac-toe/assets/134674472/8190ce18-40f8-45fb-bafe-99e4efbfe237)
+![Screenshot 2023-12-29 211251](https://github.com/Varunyadavgithub/Tic-tac-toe/assets/134674472/b0f35925-1bf4-49c2-a8da-10f2577deea1)
+![Screenshot 2023-12-29 211311](https://github.com/Varunyadavgithub/Tic-tac-toe/assets/134674472/abdf94da-ed52-4a0a-9be7-83bb24c4810c)
+
+
 
 
 # Demo
