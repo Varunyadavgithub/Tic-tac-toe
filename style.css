@@ -43,7 +43,7 @@ body {
     color: #fff;
     border: none;
     border-radius: 1rem;
-    cursor:pointer;
+    cursor: pointer;
 }
 
 /* message for winner */
@@ -54,7 +54,7 @@ body {
     color: #fff;
     border: none;
     border-radius: 1rem;
-    cursor:pointer;
+    cursor: pointer;
 }
 #msg {
     color: #ffffc7;
